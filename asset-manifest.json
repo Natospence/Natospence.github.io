@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6577b34e.css",
+    "main.js": "/static/js/main.7c28d972.js",
+    "static/media/graduation.jpg": "/static/media/graduation.4097e0a503f5e2574b3d.jpg",
+    "static/media/reagan.jpg": "/static/media/reagan.489674902ae3258af7c5.jpg",
+    "index.html": "/index.html",
+    "main.6577b34e.css.map": "/static/css/main.6577b34e.css.map",
+    "main.7c28d972.js.map": "/static/js/main.7c28d972.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6577b34e.css",
+    "static/js/main.7c28d972.js"
+  ]
+}
